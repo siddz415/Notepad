@@ -12,4 +12,4 @@ https://salty-dawn-00126.herokuapp.com/
 
 
 ## Screenshot
-![Screenshot of the Site](./assets/note.png) 
+![Screenshot of the Site](./Assets/note.png) 
