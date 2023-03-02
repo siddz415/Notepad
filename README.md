@@ -7,8 +7,8 @@ This is a note taker app with starter code that can be used to write and save no
 ## Github Repo Link
 https://github.com/siddz415/Notepad
 
-## Github Pages Link
-https://siddz415.github.io/Notepad/
+
+
 
 ## Screenshot
 ![Screenshot of the Site](./assets/note.png) 
